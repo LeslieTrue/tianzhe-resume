@@ -16,10 +16,6 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
@@ -27,5 +23,14 @@ sections:
     design:
       columns: '2'
       view: citation
- 
+  - block: collection
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 ---
