@@ -51,8 +51,8 @@ social:
   - icon: envelope
     icon_pack: fas
     label: chutzh@berkeley.edu
+  - icon: pen-nib
     icon_pack: fas
-    icon: pen-nib
     label: Courses
     link: uploads/courses.pdf
   - icon: github
