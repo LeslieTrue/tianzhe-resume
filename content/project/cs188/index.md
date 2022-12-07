@@ -1,9 +1,9 @@
 ---
-title: Reward Transformer
-summary: Final project for CS285
+title: Auto Pacman Series
+summary: Projects for CS188
 tags:
   - Deep Learning
-  - Inverse Reinforcement Learning
+  - Reinforcement Learning
 date: '2022-12-06'
 
 # Optional external URL for project (replaces project detail page).
