@@ -50,25 +50,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'chutzh@berkeley.edu'
-  - icon: twitter
-    # icon_pack: fab
-    # link: https://twitter.com/GeorgeCushen
-    # label: Follow me on Twitter
-    # display:
-    #   header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    label: chutzh@berkeley.edu
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    label: Courses
+    link: uploads/courses.pdf
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://github.com/LeslieTrue
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -80,5 +68,5 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I'm Tianzhe Chu. I'm a junior undergraduate student major in Computer Science at ShanghaiTech University. I'm now a visiting student at University of California, Berkeley. I am currently a undergraduate researcher in Berkeley Artificial Intelligence Lab(BAIR) advised by Prof. Yi Ma. I'm interested in unsupervised learning, generative models and neural rendering.
+Hi, I'm Tianzhe Chu. I'm a junior undergraduate student major in Computer Science at ShanghaiTech University. I'm now a visiting student at University of California, Berkeley. I am currently an undergraduate researcher in Berkeley Artificial Intelligence Lab(BAIR) advised by Prof. Yi Ma. I'm interested in unsupervised learning, generative models and neural rendering. Besides, I'm broadly interested in classical music.
 {style="text-align: justify;"}
