@@ -17,7 +17,7 @@ links:
   - icon: github
     icon_pack: fab
     name: github
-    url: https://github.com/LeslieTrue/cs285_Project
+    url: https://github.com/LeslieTrue/cs188_22fall
 url_code: ''
 url_pdf: ''
 url_slides: ''
