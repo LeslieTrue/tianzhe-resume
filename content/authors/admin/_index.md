@@ -69,5 +69,5 @@ email: 'chutzh@berkeley.edu'
 highlight_name: true
 ---
 
-Hi, I'm Tianzhe Chu. I'm a junior undergraduate student major in Computer Science at ShanghaiTech University. I'm now a visiting student at University of California, Berkeley. I am currently an undergraduate researcher in Berkeley Artificial Intelligence Research Lab(BAIR) advised by Prof. Yi Ma. I'm interested in unsupervised learning, generative models and neural rendering. Besides, I'm broadly interested in classical music.
+Hi, I'm Tianzhe Chu. I'm a junior undergraduate student major in Computer Science at ShanghaiTech University. I'm now a visiting student at University of California, Berkeley. I am currently an undergraduate researcher in Berkeley Artificial Intelligence Research Lab(BAIR) advised by Prof. Yi Ma. I'm interested in unsupervised learning, generative models and neural rendering. Besides, I'm broadly interested in classical music, especially the pieces composed by Chopin and Rachmaninoff.
 {style="text-align: justify;"}
