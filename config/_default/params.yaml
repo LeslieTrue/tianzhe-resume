@@ -42,8 +42,7 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice: 'Feel free to contact'
+  notice: 'Feel free to contact'
     # license:
     #   enable: true
     #   allow_derivatives: false
